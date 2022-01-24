@@ -4,4 +4,4 @@ This is another excercise from the [50 projects in 50 days](https://github.com/b
 
 Again made with almost no reference to the original example. 
 
-[Live version available here](#).
+[Live version available here](https://jwhodge.github.io/Progress-Steps/).
